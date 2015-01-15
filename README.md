@@ -1,2 +1,2 @@
-# my-first-project
-Practice Repository for learning aboutGitHub in the Web Interface
+# My First Project
+This is a practice repository for learning about GitHub in the Web Interface.
